@@ -2,3 +2,4 @@
 1b readme.txt 增加文字描述内容
 1c 新增版本切换.txt
 1d 新增工作区与暂缓区.txt
+1e1 新增cancel_modify文件 
