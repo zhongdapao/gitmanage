@@ -1,1 +1,2 @@
 1a 添加readme.txt 与 版本说明.txt
+1b readme.txt 增加文字描述内容
