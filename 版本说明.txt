@@ -3,3 +3,4 @@
 1c 新增版本切换.txt
 1d 新增工作区与暂缓区.txt
 1e1 新增cancel_modify文件 
+1f 新增远程库关联文件

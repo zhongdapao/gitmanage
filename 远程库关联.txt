@@ -1,0 +1,4 @@
+$git remote add chaos git@github.com:zhongdapao/gitmanage.git  #远程库关联本地库 库名定义为chaos
+
+$git push chaos master #本地库上传至远程库
+
